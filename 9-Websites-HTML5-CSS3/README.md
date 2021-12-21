@@ -1,6 +1,6 @@
 # Introdução a criação de websites com HTML e CSS
 
-### tag <a>
+### tag \<a>
 
 - href="mailto:abc" --> redireciona para o cliente de email;
 - href=":tel:123" --> redireciona para o cliente de email;
@@ -9,8 +9,8 @@
 
 ### tag <img>
 
-- <img src="abc"> --> link/caminho da imagem;
-- <img alt="abc"> --> Descrição da imagem para acessibilidade.
+- \<img src="abc"> --> link/caminho da imagem;
+- \<img alt="abc"> --> Descrição da imagem para acessibilidade.
 
 
 
